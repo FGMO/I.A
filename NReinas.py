@@ -1,7 +1,7 @@
 import random
 #import sys
 
-n = 16 #Variable que indica el numero de reinas
+n = 8 #Variable que indica el numero de reinas
 soluciones = [] #Arreglo que almacena las posiciones de las reinas
 #soluciones = [(-1, -1)]*n
 tablero = [] #Tablero en le que se mostrara la solucion
